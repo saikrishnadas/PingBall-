@@ -1,2 +1,2 @@
-# PingBall-
-A simple game (Ping Ball) created using Python Kivy for android .
+# PongBall-
+A simple game (Pong Ball) created using Python Kivy for android .
